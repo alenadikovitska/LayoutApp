@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LayoutApp</string>
+    <string name="id_addicts">ID addicts</string>
+    <string name="text_like_button">TEXT LIKE BUTTON</string>
+    <string name="you_photo_message">You:Photo message</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Aspernatur cupiditate explicabo hic laudantium non quas sequi, sint tempore tenetur vitae.</string>
+    <string name="btn">TEXT LIKE BUTTON</string>
+
+</resources>
